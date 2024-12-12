@@ -1,0 +1,50 @@
+{
+    "daisy": {
+      "scientific_name": "Bellis perennis",
+      "most_blooms_month": "Spring and early summer",
+      "preferred_weather": "Mild temperatures, thrives in cool weather",
+      "care_tips": {
+        "watering": "Water regularly, but allow the soil to dry out between waterings. Water deeply once a week.",
+        "sunlight": "Prefers full sun but can tolerate partial shade.",
+        "placement": "Plant in well-drained soil with plenty of sunlight.",
+        "extra_tips": "Deadhead spent flowers to encourage more blooms. Daisies are fairly low-maintenance and resistant to pests."
+      },
+      "interesting_fact": "Daisies symbolize purity and innocence, often seen in gardens and as cut flowers."
+    },
+    "dandelion": {
+      "scientific_name": "Taraxacum officinale",
+      "most_blooms_month": "Spring to early summer",
+      "preferred_weather": "Cool to moderate weather",
+      "care_tips": {
+        "watering": "Water moderately, once the soil starts to dry out.",
+        "sunlight": "Thrives in full sun, but can tolerate partial shade.",
+        "placement": "Dandelions grow well in a variety of soils, from lawns to wild meadows.",
+        "extra_tips": "Dandelions can spread quickly by seed, so consider managing their growth if they’re in a garden."
+      },
+      "interesting_fact": "The entire plant is edible, and dandelions are rich in vitamins A, C, and K."
+    },
+    "rose": {
+      "scientific_name": "Rosa spp.",
+      "most_blooms_month": "Late spring to summer",
+      "preferred_weather": "Warm to hot temperatures, needs plenty of sunlight",
+      "care_tips": {
+        "watering": "Water deeply once a week, more frequently in hot weather, but avoid getting the leaves wet to prevent disease.",
+        "sunlight": "Roses require at least 6 hours of direct sunlight per day.",
+        "placement": "Plant in well-draining soil with good air circulation to avoid fungal diseases.",
+        "extra_tips": "Prune dead or diseased branches regularly and fertilize during the growing season to encourage strong blooms."
+      },
+      "interesting_fact": "Roses are one of the oldest flowers cultivated by humans, dating back over 5,000 years."
+    },
+    "sunflower": {
+      "scientific_name": "Helianthus annuus",
+      "most_blooms_month": "Summer, typically from July to September",
+      "preferred_weather": "Warm weather, likes full sun",
+      "care_tips": {
+        "watering": "Water regularly, especially during dry spells, but allow the soil to dry out slightly between waterings.",
+        "sunlight": "Needs full sun to thrive and produce large blooms.",
+        "placement": "Plant in nutrient-rich, well-draining soil with plenty of sunlight.",
+        "extra_tips": "Sunflowers are tall plants that may need staking to support their growth. Ensure they have enough space to grow."
+      },
+      "interesting_fact": "Sunflowers are not only beautiful but are also used to produce edible seeds and oil."
+    }
+  }
